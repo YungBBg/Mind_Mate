@@ -1,0 +1,4 @@
+step 1 : npm install 
+wait download package
+
+step 2 : npx expo start -c
